@@ -12,7 +12,7 @@
 
 	<groupId>mcloudapps</groupId>
 	<artifactId>hex_arq</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
     <packaging>jar</packaging>
 	<name>hex_arq</name>
 	<description>Hexagonal architecture app for ecommerce</description>
